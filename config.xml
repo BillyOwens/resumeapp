@@ -17,6 +17,8 @@
         Billy Owens
     </author>
     
+    <plugin name="cordova-plugin-device" />
+    
     <feature name="http://api.phonegap.com/1.0/splahscreen"/>
     <feature name="http://api.phonegap.com/1.0/camera"/>
     <feature name="http://api.phonegap.com/1.0/contacts"/>
